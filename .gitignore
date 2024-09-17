@@ -35,11 +35,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 /.env
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/.gitignore
-/.idea/git_toolbox_blame.xml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/nextjs.iml
-/.idea/vcs.xml
-/.idea/git_toolbox_prj.xml
+/.idea
